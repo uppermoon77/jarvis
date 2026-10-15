@@ -3841,10 +3841,11 @@ halaman tidak tersedia
 
 
 ============================================================================================
-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 13/10/2026
+FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB-FIXED TAB | 15/10/2026
 ============================================================================================
 TESTED 15/10/26 🎃👻🍬🦇💀🧡 | 🎃👻
---> FILM
+
+--> HBO
 
 #EXTINF:-1 group-logo="https://i.imgur.com/jksy4Zb.jpeg",MAGELIFE INFORMATION
 
@@ -4505,6 +4506,9 @@ MAGELIFE INFORMATION
 #EXTINF:-1 xui-id="31" tvg-id="" tvg-name="KIX" group-title="FILM" tvg-logo="https://i.imgur.com/ffr53aW.jpeg",KIX (🎃👻)
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wzcHfZYOcxg3ryOOa-44rBU
 
+#EXTINF:-1 xui-id="32" tvg-id="" tvg-name="THRILL" tvg-logo="https://i.imgur.com/YxDN47W.jpeg" group-title="FILM",Thrill (🎃👻)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4nHwvfQ57E_3lP9aAMjdYFw
+
 #EXTINF:-1 xui-id="30" tvg-id="" tvg-name="AXN" tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",AXN (🎃👻)
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w8a6hJLZt4-7CsKBp_nrhKs
 
@@ -4860,6 +4864,9 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 
 ==========================================KOREAN NON SUB | 23/1/2025 =========================================================
+
+#EXTINF:-1 xui-id="9512" tvg-id="SPDISHD" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="ANAK",Disney Channel (🎃👻 ENGLISH)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4hXOd_Wx2_velG0zFEpZ-OT0Yp4wxD7HRY7o3QhtHeyc
 
 #EXTINF:-1 xui-id="128" tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQGSUJVjomtgIeNzmKI193GHHDnraBkLFfIqpJSuW672ci0Rg2B1BFZGNK7Lfd-c0RQVuOoN4GQ3-V_vYnmsxl9MxPIRQAbYMg0SDvipzH6_A2biSagk4k9rIikiI-9wBTkUOQcdlfJH5S7ZkV9yW2WsHZHvZV-4J_ZXG8p0FQyzz0gcMiFMaSlVIqTDo/s700/Aniplus.png" group-title="ANAK",Aniplus (((🎃)))
 http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4osDsX2mOO5Da1xbYpRu4Ro
@@ -9011,6 +9018,128 @@ SPOTV 2
 FILM
 ==========
 
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/xvV7KRR.png", 🥤 CINEMAX (🎃👻)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Cinemax.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png", 🥤 HBO (🎃👻)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBO.m3u8
+
+#EXTINF:-1 tvg-id="HBO Hits" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/5lUGmy0.png", 🥤 HBO HITS (🎃👻)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOHits.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/T5qTF1M.png", 🥤 HBO FAMILY (🎃👻)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOFamily.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/1BefgAg.png", 🥤 HBO SIGNATURE (🎃👻)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBOSignature.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/apiAKCQ.png" group-title="HBO;FILM", 🥤 HBO COMEDY (🎃👻)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+--> FILM
+
+#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO;FILM",🍿 HBOᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
+
+#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO;FILM",🍿 HBO Hitsᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wz5Q115r9wzVp9WhsZXEK-o
+
+#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO;FILM",🍿 HBO Signatureᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
+
+#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO;FILM",🍿 HBO Familyᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
+
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="CINEMAX" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="HBO;FILM",🍿 Cinemaxᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
+
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="HBO" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO 🇮🇩
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
+##https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="HBOHits" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO Hits 🇮🇩
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
+##https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO Family 🇮🇩
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
+##https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="HBOSig" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO Signature 🇮🇩
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
+##https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+=============
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO TAIWAN 🇹🇼
+https://play-drm.aliiptv.com/live/hbotw.m3u8?verify=1790056444-tDBo1je7aKklYPa7xgm2umnr4TGv8S5mpTeKOZX4rPs
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO FAMILY TAIWAN 🇹🇼
+https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO HITS TAIWAN 🇹🇼
+https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO SIGNATURE TAIWAN 🇹🇼
+https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX TAIWAN🇹🇼
+https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU
+https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL_gl9QEhWSfhITb4-TScW3d6amBEQ
+
+
+
+=================================================================
+
+
+=================================================================
+
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO;FILM", HBO ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO;FILM", HBO Family ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO;FILM", HBO Hits ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO;FILM", HBO Signature ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="HBO;FILM", Cinemax ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
+
+
+====
+
+#
+
+==========
+ANAK
+==========
+
+#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="HITS" tvg-logo="https://i.imgur.com/7mZwDie.jpeg" group-title="FILM;GAYA HIDUP",Hits (🎃👻)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oZ_FTf9wGwZ3HxAFmxh1ng
+
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="Warner TV HD" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="FILM;GAYA HIDUP",🎬Warner TV (🇮🇩)⬅️
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
+
 #EXTINF:-1 xui-id="8737" tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.imgur.com/Apt76JU.jpeg" group-title="FILM;GAYA HIDUP;PENGETAHUAN",Crime Investigation (🎃👻)
 http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0koFWVuyuKssnvUi1ImEiQ
 
@@ -12133,9 +12262,6 @@ https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="RTV HD" tvg-name="RTV HD" tvg-logo="" group-title="NASIONAL;ANAK",🎬RTV HD⬅️
 http://202.150.161.212:5000/live/channel23/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="Warner TV HD" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="FILM;GAYA HIDUP",🎬Warner TV (🇮🇩)⬅️
-http://202.150.161.212:5000/live/channel29/playlist.m3u8
-
 #EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN Movies HD" tvg-logo="https://i.imgur.com/SR1YPbD.jpeg" group-title="DUNIA | KOREA;FILM",🎬tvN Movies(🇮🇩)⬅️
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
@@ -12164,100 +12290,6 @@ https://wa.wizard.id/d8c592
 ==========
 DAERAH
 ===========
-
-#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO;FILM",🍿 HBOᴴᴰ
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
-
-#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO;FILM",🍿 HBO Hitsᴴᴰ
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wz5Q115r9wzVp9WhsZXEK-o
-
-#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO;FILM",🍿 HBO Signatureᴴᴰ
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
-
-#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO;FILM",🍿 HBO Familyᴴᴰ
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
-
-#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="CINEMAX" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="HBO;FILM",🍿 Cinemaxᴴᴰ
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="HBO" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO 🇮🇩
-http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
-##https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="HBOHits" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO Hits 🇮🇩
-http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
-##https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO Family 🇮🇩
-http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
-##https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="HBOSig" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO Signature 🇮🇩
-http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
-##https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-=============
-
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO TAIWAN 🇹🇼
-https://play-drm.aliiptv.com/live/hbotw.m3u8?verify=1790056444-tDBo1je7aKklYPa7xgm2umnr4TGv8S5mpTeKOZX4rPs
-
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO FAMILY TAIWAN 🇹🇼
-https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
-
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO HITS TAIWAN 🇹🇼
-https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
-
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO SIGNATURE TAIWAN 🇹🇼
-https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
-
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX TAIWAN🇹🇼
-https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU
-https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL_gl9QEhWSfhITb4-TScW3d6amBEQ
-
-
-
-=================================================================
-
-
-=================================================================
-
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO;FILM", HBO ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO;FILM", HBO Family ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO;FILM", HBO Hits ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO;FILM", HBO Signature ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="HBO;FILM", Cinemax ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
-
-
-====
-
-#
-
-==========
-ANAK
-==========
 
 #EXTINF:-1 tvg-id="HBO.HD.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO",HBO (NON SUB)🚫 🇻🇳
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
