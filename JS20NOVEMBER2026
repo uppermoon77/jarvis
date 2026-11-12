@@ -4036,10 +4036,21 @@ INEWS COVER https://i.imgur.com/NTYY97h.jpeg
 
 --------------EDIT INI-----------
 
-#EXTINF:-1 xui-id="9" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",1️⃣ ANTV
+#EXTINF:-1 xui-id="9" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",0️⃣ ANTV
 http://spmid.pw:80/play/4O84I8UczkDgudZ5CjpTRqU_VEZRv0Fl_8YeEZ8UsRY
 
-GTV COVER https://i.imgur.com/oZl4oNH.jpeg
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL",1️⃣ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+
+#EXTINF:-1 xui-id="9" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL",2️⃣ANTV
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-origin=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+
+
 
 
 
@@ -4414,1099 +4425,6 @@ http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4uIKb5jr_E6ic3jYG-lTvq8
 
 ===================
 
-#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="FILM",tvN Movies ((🎃))
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
-
-#EXTINF:-1 group-logo="https://i.imgur.com/kSNGK5D.jpeg",FILM
-
-
-====
-INI DIHAPUS
-tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="FILM",Indonesia Movie Channel 🆕(247)
-tvg-logo="https://i.imgur.com/kSNGK5D.jpeg",🆕Crime Investigation (167)
-
-WARNERTV LOGO  https://i.imgur.com/kSNGK5D.jpeg
-
-=====================================
-
-############################
-
-===============================================================================================================
-
-
-===============================================================================================================
-originals cover https://i.imgur.com/kSNGK5D.jpeg
-Buddy Star cover https://i.imgur.com/kSNGK5D.jpeg
-cineedge cover https://i.imgur.com/kSNGK5D.jpeg
-supperrix cover https://i.imgur.com/kSNGK5D.jpeg
-Uniques cover  https://i.imgur.com/kSNGK5D.jpeg
- STUDIO UNIVERSAL cover https://i.imgur.com/kSNGK5D.jpeg
-=============================
-
-
-===========
-NEW 4/5/2025 
-===========
-
-============https://i.imgur.com/Suy99cF.jpeg
-AXN GAYA HIDUP COVER https://i.imgur.com/KWdRJGm.jpeg
-
-(🚀24926)
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=79
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",🆕AXN  (🚀24926)
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
-
-
-
-
-
-
-
-
-tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",AXN 2 COVER
-
-tvg-logo="https://i.imgur.com/bj5LoWq.jpeg" group-title="FILM",BIOSKOP INDONESIA COVER
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-
-#EXTINF:-1 tvg-id="Bioskop.Indonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/bj5LoWq.jpeg" group-title="FILM",🆕BIOSKOP INDONESIA (227)
-#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.m3u8
-http://202.150.161.212:5000/live/channel35/playlist.m3u8
-
-
-
-
-===>>>19/3/2025<<<==========
-
-COVER BOLLYWOOD https://i.imgur.com/YWgDAxf.jpeg
-COVER BOLLYWOOD CLASIC https://i.imgur.com/pCKlKJq.jpeg
-
-
-
-======>>>20/3/2025<<<=========
-GALAXY COVER https://i.imgur.com/STbf9qL.jpeg
-GALAXY PREMIUM COVER https://i.imgur.com/H4XmjZG.jpeg
-FLIK COVER https://i.imgur.com/GOJiQSM.jpeg
-============
-
-
-
-
-===========https://i.imgur.com/7mZwDie.jpeg"
-
-HITS NOW Cover  https://i.imgur.com/7mZwDie.jpeg
-
-
-
-HITS GROUP INDO=========
-
-
-
-===========hits movie https://i.imgur.com/A58Jd0u.jpeg
-
-
-
-=====
-
-==
-
-KIX HD https://i.imgur.com/ffr53aW.jpeg
-
-
-===EDT 2
-
-=====>>>20/3/2025<<<==========
-
-MAX STREAm cover https://i.imgur.com/EWvnknn.jpeg
-
-
-COVER MY CINEMA ASIA https://i.imgur.com/aB82T71.jpeg
-
-ONE COVER https://i.imgur.com/uESN7MW.jpeg
-
-=====>>>20/3/2025<<<==========
-
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-
-#EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe HD" tvg-logo="https://i.imgur.com/aB82T71.jpeg" group-title="FILM",MY CINEMA EUROPE
-https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
-
-
-
-==========
-
-
-
-Z BIOSKOP COVER https://i.imgur.com/UmbvKYp.jpeg
-
-==================
-
-#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" tvg-logo="https://i.imgur.com/SR1YPbD.jpeg" group-title="FILM",🆕TVN MOVIES (🚀8826)
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
-
-
-
-
-==========================================KOREAN NON SUB | 23/1/2025 =========================================================
-
-#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK", NICKELODEON (🍬SUBJECT TES)
-http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
-
-#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK", NICK JR (🍬SUBJECT TES)
-http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
-================
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="ANAK" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg",Nickelodeon HD Thailand (🍬SUBJECT TES)(DUAL AUDIO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
-
-#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" group-title="ANAK" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg",Nick Jr. Thailand (🍬SUBJECT TES)(DUAL AUDIO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
-
-#EXTINF:-1 tvg-id="556" tvg-name="Cartoon Network" group-title="ANAK" tvg-logo="https://i.imgur.com/4KdFidK.jpeg",Cartoon Network HD Thailand (🍬SUBJECT TES)(DUAL AUDIO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
-
-
-
-=================
-
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax HD" tvg-logo="" group-title="ANAK",Animax HD (🍬SUBJECT TES 2)
-https://cdn1.wewatch.asia/b3A9WTJsa1BUazNNVFJHUXpsRE1qWTBNRFEzTkRBNU9URkRORUl3TVRWR01VWkVRakV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw==/1080P_h264_master.m3u8
-
-#EXTINF:-1 xui-id="129" tvg-id="" tvg-name="ANIMAX" tvg-logo="" group-title="ANAK" ,Animax (🍬SUBJECT TES 3)
-http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oGOYJ4VH4AfQGdGS2EXGFE
-
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: ANIPLUS VIP" tvg-logo="https://i.imgur.com/X3M5t4B.jpeg" group-title="ANAK",ANIPLUS (🦊🐾 FOXF)
-http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34397
-
-#EXTINF:-1 tvg-id="67" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Dreamworks (🦊🐾 FOXF) (OM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/dreamworks/index.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK", NICKELODEON (🦊🐾 FOXF) (OM)
-http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
-
-====PENGETAHUAN
-
-#EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",Nickelodeon Pluto TV (USA)
-https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
-
-#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK",Nick Jr. Pluto TV (USA)
-https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",Nickelodeon (INDO)
-https://filexott.uk:8443/live/ahsan627/62627288292/302290.ts
-
-#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK",Nick Jr (INDO)
-https://filexott.uk:8443/live/ahsan627/62627288292/302289.ts
-
-#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK", NICKELODEON (🍬SUBJECT TES)
-http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
-
-#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK", NICK JR (🍬SUBJECT TES)
-http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
-
-
---> HBO --
-
-#EXTINF:-1 xui-id="9512" tvg-id="SPDISHD" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="ANAK",Disney Channel (🎃👻 ENGLISH)
-http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4hXOd_Wx2_velG0zFEpZ-OT0Yp4wxD7HRY7o3QhtHeyc
-
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
-
-
-BIZNET KIDS https://i.imgur.com/rzdTiDx.jpeg
-
-
-=======EDT [21/11/2024]
-cartonitoo cover https://i.imgur.com/bCTSmje.jpeg
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-
-#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" group-title="ANAK" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg", 🆕MENTARI TV (🚀24926 v1)
-https://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-
-#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" group-title="ANAK" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg", 🆕MENTARI TV (🚀24926 v2)
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
-
-
-
-
-ANIPLUS COVER https://i.imgur.com/X3M5t4B.jpeg
-
-
-
-
-
-
-================
-CBEEBIES LOGO https://i.imgur.com/5GYwymQ.jpeg
-
-
-===============--NICKELODEON COVER https://i.imgur.com/5GYwymQ.jpeg"
------------------NICKELODEON JUNIOR https://i.imgur.com/aBA4UeI.jpeg"
------------------NICKELODEON https://i.imgur.com/5GYwymQ.jpeg
-
-
-
-
-
-============
-
-
-
-
-=============
-
-
----------
-
-#EXTINF:-1 tvg-id="FW774290" tvg-name="" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",KIDS TV (247)
-https://051c33e45562495c9ddd9da786ba3e0c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/TCL_KidsTV/playlist.m3u8?ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.consent=0&ads.coppa=1&ads.custom=%7BCUSTOM%7D&ads.device_id=&ads.dnt=&ads.gdpr=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.us_privacy=1YN-&ads.video_id=63fdf06b8588b176fd7913b2&ads.wurl_channel=1379&ads.wurl_name=KidsTV
-
-
-🆕
-
-
-🚀
-
-=============
-=============
-
-
---------
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/JVMAQA2.jpeg " group-title="ANAK",Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
------COVER PBS KIDS https://i.imgur.com/qTN1GVJ.jpeg
-
-#EXTINF:-1 group-title="ANAK" tvg-id="zoomoo.sg" tvg-logo="https://i.imgur.com/x7vBeiA.jpeg ",Zoo Moo
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ANAK" tvg-id="ebskids.kr" tvg-logo="https://i.imgur.com/KqLYir2.jpeg ",EBS Kids
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-
-
-DUNIA ANKA COVER : https://i.imgur.com/x7vBeiA.jpeg
-FUN PLANET COVER : https://i.imgur.com/6cGSc3e.jpeg"
-
-MY KIDS COVER https://i.imgur.com/vdL9Wa6.jpeg
-DREAMWORKS INDO https://i.imgur.com/rzdTiDx.jpeg
-
-
-
-
-
-
-
-======
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4KdFidK.jpeg"" group-title="ANAK",CARTOON NETWORK (Dual Audio)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
-
-
-======EDT 2
-
-
-==========
-OLAHRAGA LOKAL
-==========
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7G9jZCQ.png?v=1.0.0.1" group-title="PENGETAHUAN" group-logo=https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="mjh-sky-hgtv" tvg-name="HGTV", HGTV US HD (🍬SUBJECT TES)
-https://i.mjh.nz/.r/sky-hgtv.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="PENGETAHUAN",Animal Planet US (🍬SUBJECT TES)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
-============================================================================================
-FOX TAB - FOX TAB -FOX TAB -FOX TAB -FOX TAB -FOX TAB -FOX TAB -FOX TAB -| 6/11/2026 | ALL PDCTN
-=============================================================================================
---NASIONAL
-
-#EXTINF:-1 tvg-id="BBCEarth.id" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/V9vxwiF.png" group-title="PENGETAHUAN",BBC EARTH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
-
-#EXTINF:-1 tvg-id="CGTNDocumentary.id" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/e9R8H1H.png" group-title="PENGETAHUAN",CGTN DOCUMENTARY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/cgtn/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hA58ewv.png" group-title="PENGETAHUAN", LOVE NATURE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/lovenature/index.m3u8
-
-#EXTINF:-1 tvg-id="OutdoorChannel.id" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/MYU4dyd.png" group-title="PENGETAHUAN",OUTDOOR CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/outdoor/index.m3u8
-
-#EXTINF:-1 cuid="1424" tvg-name="Outdoor America 🇺🇸" tvg-id="USBD1200020Y4" tvg-logo="https://i.imgur.com/S9meezQ.png" group-title="PENGETAHUAN",OUTDOOR AMERICA (ENG SUB)
-https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="" tvg-logo="https://i.imgur.com/4RHMf2g.png" group-title="PENGETAHUAN",TRAVEL XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="PENGETAHUAN", REAL WILD (ENG SUB)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-
-#EXTINF:-1 xui-id="68" tvg-id="NGCENTE" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="PENGETAHUAN",National Geographic (🎃👻)
-http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4u4x_zFdV0_80DKD8yScR60
-
-#EXTINF:-1 xui-id="8736" tvg-id="HCLCHD" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN",History (🎃👻)
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_kCBPFtSV3uh_ARJwYO4Qw
-
-#EXTINF:-1 tvg-id="DensKnowledge.id@SD" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg",🆕Dens Knowledge (167)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8
-
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg", TRAVELXP (AG)
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
-
-#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN", Discovery Turbo (AG)
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN", HISTORY HIT 1 ON (R)
-https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN",HISTORY US
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
-https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b826a2e05a5a4922b64019c17345a020:a532aa3aaf1b2f32daa66b4d165056c6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-
-#EXTINF:-1 tvg-id="Global.Trekker.id" tvg-name="Global Trekker" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",GLOBAL TREKKER
-https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",Viasat EXPLORE 🇬🇧 🇧🇦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls15/viasat_explore.mpd?n=ayoyoyPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBUEdET1tBVEECwMgMyhcR19SRFZd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",Viasat HISTORY 🇬🇧 🇧🇦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://mob.webtvstream.bhtelecom.ba/hls15/viasat_history.mpd?n=7e88df0f0fc1cbd49f02170eb9448f5a
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",Viasat NATURE 🇬🇧 🇧🇦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
-
-
-
-
----------------------
-
-
-================>>>16/6/2025<==================
-
-#EXTINF:-1 tvg-chno="100" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",National Geographic
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-
-===ANIMAL PLANET https://i.imgur.com/Ln9oHhJ.jpeg
-
-#EXTINF:-1 tvg-id="discoveryasia" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/je8MaLy.jpeg",DISCOVERY ASIA HD 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
-
-================>>>19/3/2025<==================
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
-#EXTINF:-1 tvg-id="BBC.Earth.id" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/AnAoUca.jpeg" group-title="PENGETAHUAN",BBC EARTH (FEED)
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-
-=============https://i.imgur.com/Apt76JU.jpeg"
-
-#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Apt76JU.jpeg",🆕Crime Investigation (167)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
-
-
-
-
-
-
-
-========= discovery channel https://i.imgur.com/d9KJZyY.jpeg
-
-
-===
-EDT
-===
-
-====
-
-#EXTINF:-1 tvg-id="dmax" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/HSONsHu.jpeg", DMAX
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
-
-
-====
-EDT
-===hp
-DENS LEARNING COVER tvg-logo=" https://i.imgur.com/eTS7oLc.jpeg"
-======
-EDT
-======
-
-
-
-
-
-===
-EDT
-===
-=======20/1/2025
-
-
-
-
-======
-
-====
-
-#EXTINF:-1 tvg-id="Love.Nature.id" tvg-name="Love Nature Asia" tvg-logo="https://i.imgur.com/A4jOROs.jpeg" group-title="PENGETAHUAN",🆕Love Nature (🚀8826)
-https://amg00090-blueantllc-lovenature-lgus-t7q3q.amagi.tv/playlist/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp720.m3u8
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo=" https://i.imgur.com/nhU4IwA.jpeg",Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://i.imgur.com/n4Mtv8Y.jpeg" group-title="PENGETAHUAN", REAL WILD 🇬🇧
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://i.imgur.com/eNCpgMp.jpeg" tvg-logo="https://i.imgur.com/eNCpgMp.jpeg" group-title="PENGETAHUAN",Indonesiana TV 
-https://tvstreamcast.com/indonesiana.m3u8
-
-==========
-END | PENGETAHUAN  |WORTH 100%
-==========
-==========
-START | BRI LIGA 1
-===========df
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HGTV VIP" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV INDO (🦊🐾 FOXF)
-http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34357
-
-#EXTINF:-1 tvg-name=" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP", This Old House (AG)
-https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8
-
-tvg-logo="https://i.imgur.com/neWMOy3.png" group-title="GAYA HIDUP",🆕Hanacaraka TV (🚀8826)
-
-
-
-===JOWO TV COVER https://i.imgur.com/BEdX7dr.png
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv
-
-#EXTINF:-1 tvg-id="auto.jowo" tvg-logo="https://i.imgur.com/BEdX7dr.png" group-title="GAYA HIDUP",🆕JOWO TV (🚀8826)
-https://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
-
-
-
-tvg-logo="https://i.imgur.com/f3GHA3y.png" group-title="GAYA HIDUP",🆕CelebritiesTV (🚀8826)
-
-
-Vision prime https://i.imgur.com/J1vItCX.png
-
-
-
-ENTERTAIMENT COVER https://i.imgur.com/cJdmpvm.jpeg
-
-
-FOOD TRAVEL https://i.imgur.com/AUrp3P2.png
-
-
-
-
-=================================
-NEW 4/8/2025
-================================
-ONE GAYA HIDUP "https://i.imgur.com/5dmMedN.png
-+++
-
-
-=====
-
-
-
-============20/1/2025 GAYA HIDUP============ FAHSION TV LOGO https://i.imgur.com/vgxWXsf.jpeg
-
-
-=====EDT [21/11/2024]
-
-COVER 4k TRAVEL https://i.imgur.com/w9XdsHn.jpeg
-
-tvg-logo="https://i.imgur.com/WKctpvd.png",Arirang
-=====EDT [21/11/2024]
-
-
-
-
-
-=======
-
-FOOD TRAVEL https://i.imgur.com/AUrp3P2.png
-
-
-
-
-
-==========--crime investigation logo https://i.imgur.com/EVYrgDP.jpeg
-=========== CRIME INVESTIGATION https://i.imgur.com/FrRt7sa.png
-
-Citra entertaiment cover https://i.imgur.com/AUrp3P2.png
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://i.imgur.com/h2yEMNI.png" group-title="GAYA HIDUP",DENS LIFESTYLE
-https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-
-#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-name="DENS Food Channel.id" tvg-logo="https://i.imgur.com/vZ00gTc.png" group-title="GAYA HIDUP",DENSFOOD
-https://op-flashcon-digdayahd-1.dens.tv/h/h221/index.m3u8?app_type=web&userid=lite&chname=DensFood_Channel
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv//
-
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="-" group-title="GAYA HIDUP",DENS PLAY
-https://op-flashcon-digdayahd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=DensPlay
-
-DENS SHOWNBIZ https://i.imgur.com/DGhZYuZ.png
-HITS NOW COVER tvg-logo="https://i.imgur.com/DHcaxV2.png"
-
-
-
-===
-
-=====rock action https://i.imgur.com/RpNx07x.png
-rock entertaiment https://i.imgur.com/H5XLaEC.png
-
-
-
-
-
-+++++++
-
-===
-EDT
-===
-
-===
-EDT
-===
-
-
-
-
-=======edt
-
-
-
-=====edt
-
-TLC COVER https://i.imgur.com/wy15IpS.png
-
-
-
-
-
-
-
-
-
-
-==========
-END | GAYA HIDUP
-==========
-==========
-START | PENGETAHUAN
-==========
-PENGETAHUAN
-
-#EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/K3FXClz.jpeg" group-title="OLAHRAGA LOKAL",NBA TV ✅
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
-http://212.102.60.231/NBA_TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K3FXClz.jpeg" group-title="OLAHRAGA LOKAL",NBA 1 (267)
-https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Nba1.m3u8
-
-
-
-==EDT
-wwe cover https://i.imgur.com/dWS3vWU.jpeg
-
-==EDT
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
-
-#EXTINF:-1 tvg-id="FightSports" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/mbW2EWt.jpeg" group-title="OLAHRAGA LOKAL",FIGHT SPORTS (AG) ✅
-https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
-
-
-
-soccer cover https://i.imgur.com/WoZKvR1.jpeg
-
-COVER OLAHRAGA LOKAL 
-SPOTV 1 
-SPOTV 2 
-
-=============================
-
-
-=======================
-
-
-FILM
-==========
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="🔵ASIA | INDONESIA VIP",IDS: RCTI (🦊🐾 FOXF) (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34322
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: MNC TV (🦊🐾 FOXF) (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="🔵ASIA | INDONESIA VIP",IDS: INDOSIAR (🦊🐾 FOXF) (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34327
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: METRO TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/metrotv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: METRO TV (🦊🐾 FOXF) (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34330
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: GTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/gtv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: GTV (🦊🐾 FOXF) (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34331
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: KOMPAS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/kompastv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: KOMPAS TV (🦊🐾 FOXF) (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34332
------
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: CELESTIAL MOVIES VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/celestialmovies.png" group-title="🔵ASIA | INDONESIA VIP",IDS: CELESTIAL MOVIES (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34342
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: THRILL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/thrill.png" group-title="🔵ASIA | INDONESIA VIP",IDS: THRILL (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34343
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HITS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hits.png" group-title="🔵ASIA | INDONESIA VIP",IDS: HITS (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34345
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HITS MOVIES VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hitsmovies.png" group-title="🔵ASIA | INDONESIA VIP",IDS: HITS MOVIES (ARE)
-http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34352
-
-#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE"  tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV INDO 2 (🦊🐾 FOXF)
-http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179191
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/91wxxvj.jpeg" group-title="FILM;DUNIA | CHINA",Celestial Movies Indonesia (🦊🐾 FOXF) (OM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="FILM;DUNIA | CHINA" tvg-id="CCM.hk" tvg-name="CCM", CCM(🦊🐾 FOXF) (OM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/celestialclassic/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IicKfBI.jpeg" group-title="FILM;DUNIA | KOREA",TVN Premium Indonesia (🦊🐾 FOXF) (OM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ffr53aW.jpeg" group-title="FILM;DUNIA | KOREA",KIX (🦊🐾 FOXF) (OM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/kix/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="FILM;DUNIA | KOREA",Kplus (🦊🐾 FOXF) (OM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=425
-
-
-==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",Al Quran Al Kareem  (🦊🐾 FOXF) (OM)
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h15/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="AGAMA",SAUDI SUNNAH TV (🦊🐾 FOXF) (OM)
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h38/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="AGAMA",SURAU TV (🦊🐾 FOXF) (OM)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-https://flv.intechmedia.net/live/ch3.m3u
-
-#EXTINF:-1 tvg-id="Sunna.TV.id" tvg-name="Sunna TV" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",SUNNA TV
-https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV
-=======================================
-
-===ADD
-
--
-
-#EXTINF:-1 tvg-id="HijrahTV" tvg-name="Hijrah TV" group-title="AGAMA" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",HIJRAH TV
-https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
-
-
-
-===ADD
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-
-#EXTINF:-1 tvg-id="Rodja.TV.id" tvg-name="Rodja TV" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",RodjaTV 1
-https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8?app_type=web&userid=lite&chname=RodjaTV
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
-#EXTINF:-1 tvg-id="MQTV" tvg-name="MQTV" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",MQTV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
-
-=====KRISTEN==
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="TBN.id" tvg-name="TBN.id" tvg-logo="" group-title="AGAMA",TBN ASIA (KRISTEN)
-https://op-flashcon-digdayahd-1.dens.tv/s/s39/index.m3u8?app_type=web&userid=lite&chname=TBN
-
-
-
-=============
-NEW 4/5/2025
-============
-
-======
-
-
-
-=====
-
-
-
-
-==============
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="Makkah TV.ar" tvg-name="Makkah TV.ar" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA", Makkah TV
-http://khano.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
-
-
-------
-
-------
-
--
-
-=============
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-
-#EXTINF:-1 group-title="AGAMA"  tvg-logo="https://i.imgur.com/kdY7kjT.jpeg", TV 9 Nusantara
-#https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-
-
-
-
-==EDIT
-
-END | AGAMA
-===========
-==========
-UFC
-===========
-
-#EXTINF:-1 tvg-id="History" tvg-url="https://i.imgur.com/EtojTwF.png" group-title="PENGETAHUAN;GAYA HIDUP",HISTORY (🦊🐾 FOXF) (NDA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/history/index.m3u8
-
-#EXTINF:-1 group-title="PENGETAHUAN;FILM" tvg-id="CrimeInvestigation.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/Zc1aFSR.png",CRIME INVESTIGATION  (🦊🐾 FOXF) (NDA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/crimeinvest/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo.id" tvg-name="hbo.id" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",⩇⩇:⩇⩇ HBO (TESTED) (🌷)
-https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/HBO.m3u8
-
-#EXTINF:-1 tvg-id="hbohits.id" tvg-name="hbohits.id" tvg-logo="https://i.imgur.com/TC7GPhL.jpeg" group-title="HBO;FILM",⩇⩇:⩇⩇ HBO Hits (TESTED) (🌷)
-https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Hbohits.m3u8
-
-=============
-
-HBO
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🦇🦇)
-http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34433
-
-#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🐸)
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBO.m3u8
-
-
-
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-
-#EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🦇)
-https://filexott.uk:8443/live/ahsan627/62627288292/302248.ts
-
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-
-#EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/TC7GPhL.jpeg" group-title="HBO;FILM",🥤 HBO Hits (🦇)
-https://filexott.uk:8443/live/ahsan627/62627288292/302250.ts
-
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-
-#EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/DKGDvns.jpeg" group-title="HBO;FILM",🥤 HBO Family (🦇)
-https://filexott.uk:8443/live/ahsan627/62627288292/302249.ts
-
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-
-#EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/ChwEYqK.jpeg" group-title="HBO;FILM",🥤 HBO Signature (🦇)
-https://filexott.uk:8443/live/ahsan627/62627288292/302251.ts
-
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-
-#EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/Gm9NeNp.jpeg" group-title="HBO;FILM",🥤 Cinemax (🦇)
-https://filexott.uk:8443/live/ahsan627/62627288292/302227.ts
-=======
-
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO HD (🦇)
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
-
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="https://i.imgur.com/DKGDvns.jpeg" group-title="HBO;FILM",🥤 HBO Family HD (🦇)
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
-
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://i.imgur.com/TC7GPhL.jpeg" group-title="HBO;FILM",🥤 HBO Hits HD (🦇)
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wz5Q115r9wzVp9WhsZXEK-o
-
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://i.imgur.com/ChwEYqK.jpeg" group-title="HBO;FILM",🥤 HBO Signature HD (🦇)
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
-
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/Gm9NeNp.jpeg" group-title="HBO;FILM",🥤 Cinemax HD (🦇)
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/apiAKCQ.png" group-title="HBO;FILM", 🥤 HBO COMEDY (🎃👻)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
---> FILM
-
-#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO;FILM",🍿 HBOᴴᴰ
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
-
-#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO;FILM",🍿 HBO Hitsᴴᴰ
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wz5Q115r9wzVp9WhsZXEK-o
-
-#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO;FILM",🍿 HBO Signatureᴴᴰ
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
-
-#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO;FILM",🍿 HBO Familyᴴᴰ
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
-
-#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="CINEMAX" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="HBO;FILM",🍿 Cinemaxᴴᴰ
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="HBO" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO 🇮🇩
-http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
-##https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="HBOHits" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO Hits 🇮🇩
-http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
-##https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO Family 🇮🇩
-http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
-##https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="HBOSig" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO Signature 🇮🇩
-http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
-##https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-=============
-
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO TAIWAN 🇹🇼
-https://play-drm.aliiptv.com/live/hbotw.m3u8?verify=1790056444-tDBo1je7aKklYPa7xgm2umnr4TGv8S5mpTeKOZX4rPs
-
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO FAMILY TAIWAN 🇹🇼
-https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
-
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO HITS TAIWAN 🇹🇼
-https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
-
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO SIGNATURE TAIWAN 🇹🇼
-https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
-
-#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX TAIWAN🇹🇼
-https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU
-https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL_gl9QEhWSfhITb4-TScW3d6amBEQ
-
-
-
-=================================================================
-
-
-=================================================================
-
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO;FILM", HBO ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO;FILM", HBO Family ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO;FILM", HBO Hits ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO;FILM", HBO Signature ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="HBO;FILM", Cinemax ID (1️⃣✅)
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
-
-
-====
-
-#
-
-==========
-ANAK
-==========
-
-#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="HITS" tvg-logo="https://i.imgur.com/7mZwDie.jpeg" group-title="FILM;GAYA HIDUP",Hits (🎃👻)
-http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oZ_FTf9wGwZ3HxAFmxh1ng
-
-#EXTINF:-1 xui-id="8737" tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.imgur.com/Apt76JU.jpeg" group-title="FILM;GAYA HIDUP;PENGETAHUAN",Crime Investigation (🎃👻)
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0koFWVuyuKssnvUi1ImEiQ
-
-#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="DUNIA | KOREA",tvN Movies((🎃))
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 
 
@@ -9051,74 +7969,1098 @@ halaman tidak tersedia
 (🚀24926)(🚀24926)(🚀24926) | NASIONAL VERSI HARI INI |  (🚀24926)(🚀24926)(🚀24926)  ➡️🎬⬅️
 =======================================================================================
 
-#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" group-title="DUNIA | KOREA" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg",🆕TVN MOVIES (🚀8826 V2)
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+#EXTINF:-1 group-logo="https://i.imgur.com/kSNGK5D.jpeg",FILM
 
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=46
 
-#EXTINF:-1 tvg-id="tvN.Movies.id" tvg-name="tvN Movies" group-title="DUNIA | KOREA" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg",🆕TVN MOVIES (🚀24926) 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+====
+INI DIHAPUS
+tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="FILM",Indonesia Movie Channel 🆕(247)
+tvg-logo="https://i.imgur.com/kSNGK5D.jpeg",🆕Crime Investigation (167)
 
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=73
+WARNERTV LOGO  https://i.imgur.com/kSNGK5D.jpeg
 
-#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg" group-title="DUNIA | KOREA",🆕TVN (🚀24926) 
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+=====================================
 
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+############################
 
-#EXTINF:-1 tvg-id="auto.kix" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg" group-title="DUNIA | KOREA",🆕KIX (MX)
-https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
+===============================================================================================================
 
-(🚀24926) 
+
+===============================================================================================================
+originals cover https://i.imgur.com/kSNGK5D.jpeg
+Buddy Star cover https://i.imgur.com/kSNGK5D.jpeg
+cineedge cover https://i.imgur.com/kSNGK5D.jpeg
+supperrix cover https://i.imgur.com/kSNGK5D.jpeg
+Uniques cover  https://i.imgur.com/kSNGK5D.jpeg
+ STUDIO UNIVERSAL cover https://i.imgur.com/kSNGK5D.jpeg
+=============================
+
+
+===========
+NEW 4/5/2025 
+===========
+
+============https://i.imgur.com/Suy99cF.jpeg
+AXN GAYA HIDUP COVER https://i.imgur.com/KWdRJGm.jpeg
+
+(🚀24926)
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=75
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=79
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+##KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg" group-title="DUNIA | KOREA",🆕KIX (🚀24926) 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
-
-tvg-logo="https://i.imgur.com/tBMPp0s.jpeg" group-title="DUNIA | KOREA",KBS WORLD
-tvg-logo="https://i.imgur.com/tBMPp0s.jpeg" group-title="DUNIA | KOREA",ARIRANG
-
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="auto.k" tvg-logo="https://i.imgur.com/tBMPp0s.jpeg" group-title="DUNIA | KOREA",🆕 K-PLUS (048m)
-https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-name="Kplus"tvg-logo="https://i.imgur.com/tBMPp0s.jpeg" group-title="DUNIA | KOREA",🆕 K-PLUS (048v2)
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",🆕AXN  (🚀24926)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
 
 
 
-https://i.imgur.com/mA8jn7o.jpeg" gDUNIA | KOREA
 
 
-https://i.imgur.com/2FS1zWT.jpeg K-PLUS HD
 
 
-ffffff
+tvg-logo="https://i.imgur.com/Suy99cF.jpeg" group-title="FILM",AXN 2 COVER
+
+tvg-logo="https://i.imgur.com/bj5LoWq.jpeg" group-title="FILM",BIOSKOP INDONESIA COVER
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+
+#EXTINF:-1 tvg-id="Bioskop.Indonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/bj5LoWq.jpeg" group-title="FILM",🆕BIOSKOP INDONESIA (227)
+#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.m3u8
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+
+
+
+
+===>>>19/3/2025<<<==========
+
+COVER BOLLYWOOD https://i.imgur.com/YWgDAxf.jpeg
+COVER BOLLYWOOD CLASIC https://i.imgur.com/pCKlKJq.jpeg
+
+
+
+======>>>20/3/2025<<<=========
+GALAXY COVER https://i.imgur.com/STbf9qL.jpeg
+GALAXY PREMIUM COVER https://i.imgur.com/H4XmjZG.jpeg
+FLIK COVER https://i.imgur.com/GOJiQSM.jpeg
+============
+
+
+
+
+===========https://i.imgur.com/7mZwDie.jpeg"
+
+HITS NOW Cover  https://i.imgur.com/7mZwDie.jpeg
+
+
+
+HITS GROUP INDO=========
+
+
+
+===========hits movie https://i.imgur.com/A58Jd0u.jpeg
+
+
+
+=====
+
+==
+
+KIX HD https://i.imgur.com/ffr53aW.jpeg
+
+
+===EDT 2
+
+=====>>>20/3/2025<<<==========
+
+MAX STREAm cover https://i.imgur.com/EWvnknn.jpeg
+
+
+COVER MY CINEMA ASIA https://i.imgur.com/aB82T71.jpeg
+
+ONE COVER https://i.imgur.com/uESN7MW.jpeg
+
+=====>>>20/3/2025<<<==========
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+
+#EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe HD" tvg-logo="https://i.imgur.com/aB82T71.jpeg" group-title="FILM",MY CINEMA EUROPE
+https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
+
+
 
 ==========
-DUNIA | THAILAND NON SUB NON SUB
+
+
+
+Z BIOSKOP COVER https://i.imgur.com/UmbvKYp.jpeg
+
+==================
+
+#EXTINF:-1 tvg-id="tvN Movies" tvg-name="tvN Movies" tvg-logo="https://i.imgur.com/SR1YPbD.jpeg" group-title="FILM",🆕TVN MOVIES (🚀8826)
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
+
+
+
+==========================================KOREAN NON SUB | 23/1/2025 =========================================================
+
+#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK", NICKELODEON (🍬SUBJECT TES)
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
+
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK", NICK JR (🍬SUBJECT TES)
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
+================
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="ANAK" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg",Nickelodeon HD Thailand (🍬SUBJECT TES)(DUAL AUDIO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
+
+#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" group-title="ANAK" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg",Nick Jr. Thailand (🍬SUBJECT TES)(DUAL AUDIO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+
+#EXTINF:-1 tvg-id="556" tvg-name="Cartoon Network" group-title="ANAK" tvg-logo="https://i.imgur.com/4KdFidK.jpeg",Cartoon Network HD Thailand (🍬SUBJECT TES)(DUAL AUDIO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+
+
+
+=================
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax HD" tvg-logo="" group-title="ANAK",Animax HD (🍬SUBJECT TES 2)
+https://cdn1.wewatch.asia/b3A9WTJsa1BUazNNVFJHUXpsRE1qWTBNRFEzTkRBNU9URkRORUl3TVRWR01VWkVRakV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw==/1080P_h264_master.m3u8
+
+#EXTINF:-1 xui-id="129" tvg-id="" tvg-name="ANIMAX" tvg-logo="" group-title="ANAK" ,Animax (🍬SUBJECT TES 3)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oGOYJ4VH4AfQGdGS2EXGFE
+
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: ANIPLUS VIP" tvg-logo="https://i.imgur.com/X3M5t4B.jpeg" group-title="ANAK",ANIPLUS (🦊🐾 FOXF)
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34397
+
+#EXTINF:-1 tvg-id="67" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",Dreamworks (🦊🐾 FOXF) (OM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/dreamworks/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK", NICKELODEON (🦊🐾 FOXF) (OM)
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
+
+====PENGETAHUAN
+
+#EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",Nickelodeon Pluto TV (USA)
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK",Nick Jr. Pluto TV (USA)
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",Nickelodeon (INDO)
+https://filexott.uk:8443/live/ahsan627/62627288292/302290.ts
+
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK",Nick Jr (INDO)
+https://filexott.uk:8443/live/ahsan627/62627288292/302289.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK", NICKELODEON (🍬SUBJECT TES)
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179169
+
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK", NICK JR (🍬SUBJECT TES)
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
+
+
+--> HBO --
+
+#EXTINF:-1 xui-id="9512" tvg-id="SPDISHD" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="ANAK",Disney Channel (🎃👻 ENGLISH)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4hXOd_Wx2_velG0zFEpZ-OT0Yp4wxD7HRY7o3QhtHeyc
+
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
+
+BIZNET KIDS https://i.imgur.com/rzdTiDx.jpeg
+
+
+=======EDT [21/11/2024]
+cartonitoo cover https://i.imgur.com/bCTSmje.jpeg
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+
+#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" group-title="ANAK" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg", 🆕MENTARI TV (🚀24926 v1)
+https://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+
+#EXTINF:-1 tvg-id="Mentari.TV.id" tvg-name="Mentari TV" group-title="ANAK" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg", 🆕MENTARI TV (🚀24926 v2)
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
+
+
+
+
+ANIPLUS COVER https://i.imgur.com/X3M5t4B.jpeg
+
+
+
+
+
+
+================
+CBEEBIES LOGO https://i.imgur.com/5GYwymQ.jpeg
+
+
+===============--NICKELODEON COVER https://i.imgur.com/5GYwymQ.jpeg"
+-----------------NICKELODEON JUNIOR https://i.imgur.com/aBA4UeI.jpeg"
+-----------------NICKELODEON https://i.imgur.com/5GYwymQ.jpeg
+
+
+
+
+
+============
+
+
+
+
+=============
+
+
+---------
+
+#EXTINF:-1 tvg-id="FW774290" tvg-name="" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",KIDS TV (247)
+https://051c33e45562495c9ddd9da786ba3e0c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/TCL_KidsTV/playlist.m3u8?ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.consent=0&ads.coppa=1&ads.custom=%7BCUSTOM%7D&ads.device_id=&ads.dnt=&ads.gdpr=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.us_privacy=1YN-&ads.video_id=63fdf06b8588b176fd7913b2&ads.wurl_channel=1379&ads.wurl_name=KidsTV
+
+
+🆕
+
+
+🚀
+
+=============
+=============
+
+
+--------
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/JVMAQA2.jpeg " group-title="ANAK",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+-----COVER PBS KIDS https://i.imgur.com/qTN1GVJ.jpeg
+
+#EXTINF:-1 group-title="ANAK" tvg-id="zoomoo.sg" tvg-logo="https://i.imgur.com/x7vBeiA.jpeg ",Zoo Moo
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ANAK" tvg-id="ebskids.kr" tvg-logo="https://i.imgur.com/KqLYir2.jpeg ",EBS Kids
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+
+DUNIA ANKA COVER : https://i.imgur.com/x7vBeiA.jpeg
+FUN PLANET COVER : https://i.imgur.com/6cGSc3e.jpeg"
+
+MY KIDS COVER https://i.imgur.com/vdL9Wa6.jpeg
+DREAMWORKS INDO https://i.imgur.com/rzdTiDx.jpeg
+
+
+
+
+
+
+
+======
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4KdFidK.jpeg"" group-title="ANAK",CARTOON NETWORK (Dual Audio)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+
+
+======EDT 2
+
+
 ==========
+OLAHRAGA LOKAL
+==========
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7G9jZCQ.png?v=1.0.0.1" group-title="PENGETAHUAN" group-logo=https://warningfm.github.io/v3/img/h2a2AIf.png" tvg-id="mjh-sky-hgtv" tvg-name="HGTV", HGTV US HD (🍬SUBJECT TES)
+https://i.mjh.nz/.r/sky-hgtv.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="PENGETAHUAN",Animal Planet US (🍬SUBJECT TES)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
+============================================================================================
+FOX TAB - FOX TAB -FOX TAB -FOX TAB -FOX TAB -FOX TAB -FOX TAB -FOX TAB -| 6/11/2026 | ALL PDCTN
+=============================================================================================
+--NASIONAL
+
+#EXTINF:-1 tvg-id="BBCEarth.id" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/V9vxwiF.png" group-title="PENGETAHUAN",BBC EARTH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.id" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/e9R8H1H.png" group-title="PENGETAHUAN",CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/cgtn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hA58ewv.png" group-title="PENGETAHUAN", LOVE NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/lovenature/index.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorChannel.id" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/MYU4dyd.png" group-title="PENGETAHUAN",OUTDOOR CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/outdoor/index.m3u8
+
+#EXTINF:-1 cuid="1424" tvg-name="Outdoor America 🇺🇸" tvg-id="USBD1200020Y4" tvg-logo="https://i.imgur.com/S9meezQ.png" group-title="PENGETAHUAN",OUTDOOR AMERICA (ENG SUB)
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="" tvg-logo="https://i.imgur.com/4RHMf2g.png" group-title="PENGETAHUAN",TRAVEL XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="PENGETAHUAN", REAL WILD (ENG SUB)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+
+#EXTINF:-1 xui-id="68" tvg-id="NGCENTE" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="PENGETAHUAN",National Geographic (🎃👻)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4u4x_zFdV0_80DKD8yScR60
+
+#EXTINF:-1 xui-id="8736" tvg-id="HCLCHD" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN",History (🎃👻)
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_kCBPFtSV3uh_ARJwYO4Qw
+
+#EXTINF:-1 tvg-id="DensKnowledge.id@SD" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg",🆕Dens Knowledge (167)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8
+
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg", TRAVELXP (AG)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN", Discovery Turbo (AG)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN", HISTORY HIT 1 ON (R)
+https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN",HISTORY US
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
+https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b826a2e05a5a4922b64019c17345a020:a532aa3aaf1b2f32daa66b4d165056c6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+
+#EXTINF:-1 tvg-id="Global.Trekker.id" tvg-name="Global Trekker" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",GLOBAL TREKKER
+https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",Viasat EXPLORE 🇬🇧 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls15/viasat_explore.mpd?n=ayoyoyPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBUEdET1tBVEECwMgMyhcR19SRFZd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",Viasat HISTORY 🇬🇧 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://mob.webtvstream.bhtelecom.ba/hls15/viasat_history.mpd?n=7e88df0f0fc1cbd49f02170eb9448f5a
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",Viasat NATURE 🇬🇧 🇧🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
+
+
+
+
+---------------------
+
+
+================>>>16/6/2025<==================
+
+#EXTINF:-1 tvg-chno="100" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+
+===ANIMAL PLANET https://i.imgur.com/Ln9oHhJ.jpeg
+
+#EXTINF:-1 tvg-id="discoveryasia" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/je8MaLy.jpeg",DISCOVERY ASIA HD 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+
+================>>>19/3/2025<==================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+#EXTINF:-1 tvg-id="BBC.Earth.id" tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/AnAoUca.jpeg" group-title="PENGETAHUAN",BBC EARTH (FEED)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+=============https://i.imgur.com/Apt76JU.jpeg"
+
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Apt76JU.jpeg",🆕Crime Investigation (167)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+
+
+
+
+
+
+
+========= discovery channel https://i.imgur.com/d9KJZyY.jpeg
+
+
+===
+EDT
+===
+
+====
+
+#EXTINF:-1 tvg-id="dmax" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/HSONsHu.jpeg", DMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+
+
+====
+EDT
+===hp
+DENS LEARNING COVER tvg-logo=" https://i.imgur.com/eTS7oLc.jpeg"
+======
+EDT
+======
+
+
+
+
+
+===
+EDT
+===
+=======20/1/2025
+
+
+
+
+======
+
+====
+
+#EXTINF:-1 tvg-id="Love.Nature.id" tvg-name="Love Nature Asia" tvg-logo="https://i.imgur.com/A4jOROs.jpeg" group-title="PENGETAHUAN",🆕Love Nature (🚀8826)
+https://amg00090-blueantllc-lovenature-lgus-t7q3q.amagi.tv/playlist/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp720.m3u8
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+
+#EXTINF:-1 group-title="PENGETAHUAN" tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo=" https://i.imgur.com/nhU4IwA.jpeg",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://i.imgur.com/n4Mtv8Y.jpeg" group-title="PENGETAHUAN", REAL WILD 🇬🇧
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://i.imgur.com/eNCpgMp.jpeg" tvg-logo="https://i.imgur.com/eNCpgMp.jpeg" group-title="PENGETAHUAN",Indonesiana TV 
+https://tvstreamcast.com/indonesiana.m3u8
+
+==========
+END | PENGETAHUAN  |WORTH 100%
+==========
+==========
+START | BRI LIGA 1
+===========df
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HGTV VIP" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV INDO (🦊🐾 FOXF)
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34357
+
+#EXTINF:-1 tvg-name=" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP", This Old House (AG)
+https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8
+
+tvg-logo="https://i.imgur.com/neWMOy3.png" group-title="GAYA HIDUP",🆕Hanacaraka TV (🚀8826)
+
+
+
+===JOWO TV COVER https://i.imgur.com/BEdX7dr.png
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+
+#EXTINF:-1 tvg-id="auto.jowo" tvg-logo="https://i.imgur.com/BEdX7dr.png" group-title="GAYA HIDUP",🆕JOWO TV (🚀8826)
+https://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+
+
+
+tvg-logo="https://i.imgur.com/f3GHA3y.png" group-title="GAYA HIDUP",🆕CelebritiesTV (🚀8826)
+
+
+Vision prime https://i.imgur.com/J1vItCX.png
+
+
+
+ENTERTAIMENT COVER https://i.imgur.com/cJdmpvm.jpeg
+
+
+FOOD TRAVEL https://i.imgur.com/AUrp3P2.png
+
+
+
+
+=================================
+NEW 4/8/2025
+================================
+ONE GAYA HIDUP "https://i.imgur.com/5dmMedN.png
++++
+
+
+=====
+
+
+
+============20/1/2025 GAYA HIDUP============ FAHSION TV LOGO https://i.imgur.com/vgxWXsf.jpeg
+
+
+=====EDT [21/11/2024]
+
+COVER 4k TRAVEL https://i.imgur.com/w9XdsHn.jpeg
+
+tvg-logo="https://i.imgur.com/WKctpvd.png",Arirang
+=====EDT [21/11/2024]
+
+
+
+
+
+=======
+
+FOOD TRAVEL https://i.imgur.com/AUrp3P2.png
+
+
+
+
+
+==========--crime investigation logo https://i.imgur.com/EVYrgDP.jpeg
+=========== CRIME INVESTIGATION https://i.imgur.com/FrRt7sa.png
+
+Citra entertaiment cover https://i.imgur.com/AUrp3P2.png
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://i.imgur.com/h2yEMNI.png" group-title="GAYA HIDUP",DENS LIFESTYLE
+https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+
+#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-name="DENS Food Channel.id" tvg-logo="https://i.imgur.com/vZ00gTc.png" group-title="GAYA HIDUP",DENSFOOD
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/index.m3u8?app_type=web&userid=lite&chname=DensFood_Channel
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv//
+
+#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="-" group-title="GAYA HIDUP",DENS PLAY
+https://op-flashcon-digdayahd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=DensPlay
+
+DENS SHOWNBIZ https://i.imgur.com/DGhZYuZ.png
+HITS NOW COVER tvg-logo="https://i.imgur.com/DHcaxV2.png"
+
+
+
+===
+
+=====rock action https://i.imgur.com/RpNx07x.png
+rock entertaiment https://i.imgur.com/H5XLaEC.png
+
+
+
+
+
++++++++
+
+===
+EDT
+===
+
+===
+EDT
+===
+
+
+
+
+=======edt
+
+
+
+=====edt
+
+TLC COVER https://i.imgur.com/wy15IpS.png
+
+
+
+
+
+
+
+
+
+
+==========
+END | GAYA HIDUP
+==========
+==========
+START | PENGETAHUAN
+==========
+PENGETAHUAN
+
+#EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/K3FXClz.jpeg" group-title="OLAHRAGA LOKAL",NBA TV ✅
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
+http://212.102.60.231/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3FXClz.jpeg" group-title="OLAHRAGA LOKAL",NBA 1 (267)
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Nba1.m3u8
+
+
+
+==EDT
+wwe cover https://i.imgur.com/dWS3vWU.jpeg
+
+==EDT
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
+
+#EXTINF:-1 tvg-id="FightSports" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/mbW2EWt.jpeg" group-title="OLAHRAGA LOKAL",FIGHT SPORTS (AG) ✅
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+
+
+
+soccer cover https://i.imgur.com/WoZKvR1.jpeg
+
+COVER OLAHRAGA LOKAL 
+SPOTV 1 
+SPOTV 2 
+
+=============================
+
+
+=======================
+
+
+FILM
+==========
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="🔵ASIA | INDONESIA VIP",IDS: RCTI (🦊🐾 FOXF) (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34322
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: MNC TV (🦊🐾 FOXF) (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="🔵ASIA | INDONESIA VIP",IDS: INDOSIAR (🦊🐾 FOXF) (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34327
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: METRO TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/metrotv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: METRO TV (🦊🐾 FOXF) (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34330
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: GTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/gtv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: GTV (🦊🐾 FOXF) (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34331
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: KOMPAS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/kompastv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: KOMPAS TV (🦊🐾 FOXF) (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34332
+-----
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: CELESTIAL MOVIES VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/celestialmovies.png" group-title="🔵ASIA | INDONESIA VIP",IDS: CELESTIAL MOVIES (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34342
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: THRILL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/thrill.png" group-title="🔵ASIA | INDONESIA VIP",IDS: THRILL (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34343
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HITS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hits.png" group-title="🔵ASIA | INDONESIA VIP",IDS: HITS (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34345
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HITS MOVIES VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hitsmovies.png" group-title="🔵ASIA | INDONESIA VIP",IDS: HITS MOVIES (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34352
+
+#EXTINF:-1 group-title="CHANNEL | KNOWLEDGE"  tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV INDO 2 (🦊🐾 FOXF)
+http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179191
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/91wxxvj.jpeg" group-title="FILM;DUNIA | CHINA",Celestial Movies Indonesia (🦊🐾 FOXF) (OM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILM;DUNIA | CHINA" tvg-id="CCM.hk" tvg-name="CCM", CCM(🦊🐾 FOXF) (OM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/celestialclassic/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IicKfBI.jpeg" group-title="FILM;DUNIA | KOREA",TVN Premium Indonesia (🦊🐾 FOXF) (OM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/tvn/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg" group-title="FILM;DUNIA | KOREA",TVN Movies Indonesia (🦊🐾 FOXF) (OM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/tvnmovies/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ffr53aW.jpeg" group-title="FILM;DUNIA | KOREA",KIX (🦊🐾 FOXF) (OM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/kix/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="FILM;DUNIA | KOREA",Kplus (🦊🐾 FOXF) (OM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=425
+
+
+==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",Al Quran Al Kareem  (🦊🐾 FOXF) (OM)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AGAMA",SAUDI SUNNAH TV (🦊🐾 FOXF) (OM)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h38/01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AGAMA",SURAU TV (🦊🐾 FOXF) (OM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://flv.intechmedia.net/live/ch3.m3u
+
+#EXTINF:-1 tvg-id="Sunna.TV.id" tvg-name="Sunna TV" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",SUNNA TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV
+=======================================
+
+===ADD
+
+-
+
+#EXTINF:-1 tvg-id="HijrahTV" tvg-name="Hijrah TV" group-title="AGAMA" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg",HIJRAH TV
+https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
+
+
+
+===ADD
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+
+#EXTINF:-1 tvg-id="Rodja.TV.id" tvg-name="Rodja TV" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",RodjaTV 1
+https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8?app_type=web&userid=lite&chname=RodjaTV
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+#EXTINF:-1 tvg-id="MQTV" tvg-name="MQTV" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
+
+=====KRISTEN==
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="TBN.id" tvg-name="TBN.id" tvg-logo="" group-title="AGAMA",TBN ASIA (KRISTEN)
+https://op-flashcon-digdayahd-1.dens.tv/s/s39/index.m3u8?app_type=web&userid=lite&chname=TBN
+
+
+
+=============
+NEW 4/5/2025
+============
+
+======
+
+
+
+=====
+
+
+
+
+==============
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Makkah TV.ar" tvg-name="Makkah TV.ar" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA", Makkah TV
+http://khano.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
+
+
+------
+
+------
+
+-
+
+=============
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+
+#EXTINF:-1 group-title="AGAMA"  tvg-logo="https://i.imgur.com/kdY7kjT.jpeg", TV 9 Nusantara
+#https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+
+
+
+==EDIT
+
+END | AGAMA
+===========
+==========
+UFC
+===========
+
+#EXTINF:-1 tvg-id="History" tvg-url="https://i.imgur.com/EtojTwF.png" group-title="PENGETAHUAN;GAYA HIDUP",HISTORY (🦊🐾 FOXF) (NDA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/history/index.m3u8
+
+#EXTINF:-1 group-title="PENGETAHUAN;FILM" tvg-id="CrimeInvestigation.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/Zc1aFSR.png",CRIME INVESTIGATION  (🦊🐾 FOXF) (NDA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/crimeinvest/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo.id" tvg-name="hbo.id" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",⩇⩇:⩇⩇ HBO (TESTED) (🌷)
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/HBO.m3u8
+
+#EXTINF:-1 tvg-id="hbohits.id" tvg-name="hbohits.id" tvg-logo="https://i.imgur.com/TC7GPhL.jpeg" group-title="HBO;FILM",⩇⩇:⩇⩇ HBO Hits (TESTED) (🌷)
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Hbohits.m3u8
+
+=============
+
+HBO
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🦇🦇)
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34433
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🐸)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBO.m3u8
+
+
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🦇)
+https://filexott.uk:8443/live/ahsan627/62627288292/302248.ts
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/TC7GPhL.jpeg" group-title="HBO;FILM",🥤 HBO Hits (🦇)
+https://filexott.uk:8443/live/ahsan627/62627288292/302250.ts
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/DKGDvns.jpeg" group-title="HBO;FILM",🥤 HBO Family (🦇)
+https://filexott.uk:8443/live/ahsan627/62627288292/302249.ts
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/ChwEYqK.jpeg" group-title="HBO;FILM",🥤 HBO Signature (🦇)
+https://filexott.uk:8443/live/ahsan627/62627288292/302251.ts
+
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
+
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/Gm9NeNp.jpeg" group-title="HBO;FILM",🥤 Cinemax (🦇)
+https://filexott.uk:8443/live/ahsan627/62627288292/302227.ts
+=======
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO HD (🦇)
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
+
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="https://i.imgur.com/DKGDvns.jpeg" group-title="HBO;FILM",🥤 HBO Family HD (🦇)
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
+
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://i.imgur.com/TC7GPhL.jpeg" group-title="HBO;FILM",🥤 HBO Hits HD (🦇)
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wz5Q115r9wzVp9WhsZXEK-o
+
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://i.imgur.com/ChwEYqK.jpeg" group-title="HBO;FILM",🥤 HBO Signature HD (🦇)
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/Gm9NeNp.jpeg" group-title="HBO;FILM",🥤 Cinemax HD (🦇)
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/apiAKCQ.png" group-title="HBO;FILM", 🥤 HBO COMEDY (🎃👻)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+--> FILM
+
+#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO;FILM",🍿 HBOᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
+
+#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO;FILM",🍿 HBO Hitsᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5wz5Q115r9wzVp9WhsZXEK-o
+
+#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO;FILM",🍿 HBO Signatureᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w3d9e0KQOl3_TGdZQmH_h_4
+
+#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO;FILM",🍿 HBO Familyᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w4-I7sFiLn5-mtLvY__-sGg
+
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="CINEMAX" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="HBO;FILM",🍿 Cinemaxᴴᴰ
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0r4orzXSjN0UAkjoBgiYsQ
+
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="HBO" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO 🇮🇩
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
+##https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="HBOHits" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO Hits 🇮🇩
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
+##https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO Family 🇮🇩
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
+##https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="HBOSig" group-title="HBO;FILM" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO Signature 🇮🇩
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
+##https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+=============
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/hgyPQif.png",HBO TAIWAN 🇹🇼
+https://play-drm.aliiptv.com/live/hbotw.m3u8?verify=1790056444-tDBo1je7aKklYPa7xgm2umnr4TGv8S5mpTeKOZX4rPs
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/T5qTF1M.png",HBO FAMILY TAIWAN 🇹🇼
+https://play-drm.aliiptv.com/live/HBOfamilyHD.m3u8?verify=1790056355-vU35IFSqkMxqvpHU0KJxCMNj5nAMyF5RqG6f0Vmevz
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/5lUGmy0.png",HBO HITS TAIWAN 🇹🇼
+https://play-drm.aliiptv.com/live/HBOHitsHD.m3u8?verify=1790056376-3h4Cr8Ngj_O6ExW3QRz_qEjYgxMOSj9PVrSZRMaFZz
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://i.imgur.com/1BefgAg.png",HBO SIGNATURE TAIWAN 🇹🇼
+https://play-drm.aliiptv.com/live/HBOSignature.m3u8?verify=1790056398-aY7FJgRtwYT7vaYqSY2n72NJLtpKXweF7dZ3yOWnKX4
+
+#EXTINF:-1 group-title="HBO;FILM" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX TAIWAN🇹🇼
+https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790056624-5ULcVZAwcBf-b0qIhZeeb_FfgmUZSsJC9L-Cw-f3VkU
+https://play-drm.aliiptv.com/live/cinemax.m3u8?verify=1790055946-JxpWXPpk9ZKP3fL_gl9QEhWSfhITb4-TScW3d6amBEQ
+
+
+
+=================================================================
+
+
+=================================================================
+
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/hgyPQif.png" group-title="HBO;FILM", HBO ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HboID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/T5qTF1M.png" group-title="HBO;FILM", HBO Family ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbofamilyID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/5lUGmy0.png" group-title="HBO;FILM", HBO Hits ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbohitsID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1BefgAg.png" group-title="HBO;FILM", HBO Signature ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbosignatureID.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/rP1bUsQ.png" group-title="HBO;FILM", Cinemax ID (1️⃣✅)
+https://raw.githubusercontent.com/B-inal-123/arabasta-s/refs/heads/main/HbocinemaxID.m3u8
+
+
+====
+
+#
+
+==========
+ANAK
+==========
+
+#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="HITS" tvg-logo="https://i.imgur.com/7mZwDie.jpeg" group-title="FILM;GAYA HIDUP",Hits (🎃👻)
+http://spmid.pw:80/play/GilYnrCW_MM0O4y8RxRw4oZ_FTf9wGwZ3HxAFmxh1ng
+
+#EXTINF:-1 xui-id="8737" tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.imgur.com/Apt76JU.jpeg" group-title="FILM;GAYA HIDUP;PENGETAHUAN",Crime Investigation (🎃👻)
+http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w0koFWVuyuKssnvUi1ImEiQ
 
 #EXTINF:-1 group-title="NASIONAL;ANAK" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg",VTV
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
@@ -9836,6 +9778,39 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 ==========
 KOREA
 ===========
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tBMPp0s.jpeg" group-title="DUNIA | KOREA",ARIRANG WORLD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tBMPp0s.jpeg" group-title="DUNIA | KOREA",KBS WORLD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://stream8.cinerama.uz/1448/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language=""  tvg-logo="https://i.imgur.com/tBMPp0s.jpeg" group-title="DUNIA | KOREA",KPLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=425
+
+
+
+tvg-logo="https://i.imgur.com/tBMPp0s.jpeg" group-title="DUNIA | KOREA",KBS WORLD
+tvg-logo="https://i.imgur.com/tBMPp0s.jpeg" group-title="DUNIA | KOREA",ARIRANG
+
+
+
+
+
+
+https://i.imgur.com/mA8jn7o.jpeg" gDUNIA | KOREA
+
+
+https://i.imgur.com/2FS1zWT.jpeg K-PLUS HD
+
+
+ffffff
+
+==========
+DUNIA | THAILAND NON SUB NON SUB
+==========
 
 #EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB",DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
