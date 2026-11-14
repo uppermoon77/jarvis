@@ -10823,6 +10823,9 @@ HBO
 #EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🦇🦇)
 http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34433
 
+#EXTINF:-1 tvg-id="" tvg-name="IDS: CINEMAX VIP" tvg-logo="https://i.imgur.com/Gm9NeNp.jpeg" group-title="HBO;FILM",🥤 CINEMAX (🦇🦇)
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34355
+
 #EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🐸)
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBO.m3u8
 
